@@ -1,7 +1,7 @@
 body {
     overflow-x: hidden;
     overflow-y: auto;
-    background-image: url(images/your_verse_hero.jpg);
+    background-image: linear-gradient(to right, #466537, rgb(153, 102, 102), rgb(99, 99, 6));
     background-color: black;
     background-repeat: no-repeat;
     background-size: cover;
@@ -10,7 +10,7 @@ body {
 
 header {
     background: #466368;
-    background: linear-gradient(#f0f3f2, #9d9d9e);
+    background: radial-gradient(#a6c5e9 90%, rgb(117, 170, 201));
     border-radius: 6px;
     height: 90px;
     width: 97vw;
